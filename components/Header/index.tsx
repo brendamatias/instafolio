@@ -37,7 +37,7 @@ const Header: NextComponentType = () => (
 
         <div className="contact">
           <strong>Brenda Matias</strong>
-          <p>Hello! I'm Brenda Matias, a computer engineer who loves to turn dream into code lines</p>
+          <p>Hello! I&apos;m Brenda Matias, a computer engineer who loves to turn dream into code lines</p>
           <br />
           <p>
             Portfolio:{' '}
